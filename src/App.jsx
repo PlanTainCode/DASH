@@ -5,6 +5,10 @@ function App() {
   return (
     <div>
       <Header />
+      <main>
+        <SideBar />
+        <div>какой-то контент</div>
+      </main>
     </div>
   );
 }
